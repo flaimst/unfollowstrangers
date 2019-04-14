@@ -1,2 +1,7 @@
-# unfollowstrangers
-Unfollow stranger users on Twitter
+# Unfollow Strangers
+
+## Install
+```
+composer install
+```
+> Thanks for Abraham Williams - [TwitterOAuth](https://twitteroauth.com/)
